@@ -8,18 +8,18 @@ These are examples how use the python's functions:
 - reduce()
 - lambda
 
-Map(): 
+map(): 
 ------
 We use this function to get a tuple (key, value).
 
-Filter(): 
+filter(): 
 ---------
 The function allows apply a filter' function (condition) to one list.
 
-Reduce(): 
+reduce(): 
 ---------
 Allows get a result list, after apply Map().
 
-Lambda: 
+lambda: 
 -------
 Allow define a one line function (without name / anonymous functions).
