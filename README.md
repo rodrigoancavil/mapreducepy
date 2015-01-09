@@ -9,7 +9,7 @@ These are examples how use the python's functions:
 - lambda
 
 map(): 
-We use this function to get a list of tuples (key, value).
+We use this function to get a list of tuples with (key, value).
 
 filter(): 
 The function allows apply a filter' function (condition) to one list.
