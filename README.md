@@ -10,14 +10,14 @@ These are examples how use the python's functions:
 
 Definitions:
 ------------
-map(): 
+* map(): 
 We use this function to get a list of tuples with (key, value).
 
-filter(): 
+* filter(): 
 The function allows apply a filter' function (condition) to one list.
 
-reduce(): 
+* reduce(): 
 Allows get a result list, after apply Map().
 
-lambda: 
+* lambda: 
 Allow define a one line function (without name / anonymous functions).
