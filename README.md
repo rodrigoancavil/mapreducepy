@@ -8,6 +8,8 @@ These are examples how use the python's functions:
 - reduce()
 - lambda
 
+Definitions:
+------------
 map(): 
 We use this function to get a list of tuples with (key, value).
 
