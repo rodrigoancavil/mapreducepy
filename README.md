@@ -21,3 +21,5 @@ Allows get a result list, after apply Map().
 
 * lambda: 
 Allow define a one line function (without name / anonymous functions).
+
+Unittest was incorporated.
